@@ -1,0 +1,17 @@
+{
+  "name": "dm-pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "braintree": "^3.23.0",
+    "colors": "^1.4.0",
+    "express": "^4.19.2"
+  }
+}
